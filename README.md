@@ -29,7 +29,6 @@ Feel free to explore and modify the code to enhance or customize the game furthe
 
 ```bash
 git clone https://github.com/your-username/tic-tac-toe.git
-exit
 ```
 
 ##Compile and Run
@@ -38,8 +37,8 @@ exit
 cd tic-tac-toe
 g++ main.cpp -o tic_tac_toe
 ./tic_tac_toe
-exit
 ```
+
 
 ##License
 
