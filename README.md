@@ -40,3 +40,8 @@ g++ main.cpp -o tic_tac_toe
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+## README Author
+
+- **Author Name:** Taimoor Raza Asif
+- **Contact:** rajataimoor1937@gmail.com
