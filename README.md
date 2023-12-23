@@ -27,17 +27,20 @@ Feel free to explore and modify the code to enhance or customize the game furthe
 
 ### Clone the Repository
 
+```bash
 git clone https://github.com/your-username/tic-tac-toe.git
+```
 
+## Compile and Run
 
-##Compile and Run
-
+```bash
 cd tic-tac-toe
 g++ main.cpp -o tic_tac_toe
 ./tic_tac_toe
+```
 
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
